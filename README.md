@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my world
+  🌱 I’m currently learning Kotlin, MySQL, Bash, C
+  📫 How to reach me: umbertociccia@icloud.com
 
 <!--
 **umbertocicciaa/umbertocicciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
