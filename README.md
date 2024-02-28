@@ -1,5 +1,5 @@
 ### Welcome to my world
- - 🌱 I’m currently learning Kotlin, MySQL, Bash, C 
+ - 🌱 I’m currently learning C#, Angular
   - 📫 How to reach me: umbertociccia@icloud.com
   - 📚 I'm currently studying computer engineering at the University of Calabria
 
