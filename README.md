@@ -1,8 +1,9 @@
-### Welcome to my world
+# Welcome to my world
   - 📫 How to reach me: umbertociccia@icloud.com
   - 📚 BSc in Computer Engineering (Grade: 109/110)
   - 📚 I'm currently studying Cyber security at the University of Calabria
   - 🧑🏻‍💻 Aspiring devops engineer
+    
 ## CV
 <img width="572" alt="Screenshot 2024-09-14 at 11 18 05" src="https://github.com/user-attachments/assets/754758e9-60a3-4f0c-9a44-f75297ceb5e3">
 
