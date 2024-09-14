@@ -1,7 +1,9 @@
 ### Welcome to my world
   - 📫 How to reach me: umbertociccia@icloud.com
-  - 📚 I'm currently studying computer engineering at the University of Calabria
-
+  - 📚 BSc in Computer Engineering (Grade: 109/110)
+  - 📚 I'm currently studying Cyber security at the University of Calabria
+  - 🧑🏻‍💻 Aspiring devops engineer
+  - 
 <!--
 **umbertocicciaa/umbertocicciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
