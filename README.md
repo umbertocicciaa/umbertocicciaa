@@ -3,7 +3,7 @@
   - 📚 BSc in Computer Engineering (Grade: 109/110)
   - 📚 I'm currently studying Cyber security at the University of Calabria
   - 🧑🏻‍💻 Aspiring devops engineer
-  - 
+
 <!--
 **umbertocicciaa/umbertocicciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
