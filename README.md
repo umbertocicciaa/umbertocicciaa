@@ -3,7 +3,7 @@
   - 📚 BSc in Computer Engineering (Grade: 109/110)
   - 📚 I'm currently studying Cyber security at the University of Calabria
   - 🧑🏻‍💻 Aspiring devops engineer
-  - 🌎  <a href="https://angular.io"> My github.io (WORK IN PROGRESS) </a>
+  - 🌎  <a href="https://umbertocicciaa.github.io/"> My github.io (WORK IN PROGRESS) </a>
 
 ## Languages and Tools
 
