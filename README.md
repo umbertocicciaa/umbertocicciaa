@@ -8,6 +8,7 @@
 ## Languages and Tools
 
 <p align="left">
+     <a href="https://dotnet.microsoft.com/it-it/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7e004d3e-227a-4823-ae06-0136d027b50e" alt="blazor" width="40" height="40" /> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
