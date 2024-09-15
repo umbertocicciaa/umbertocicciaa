@@ -1,4 +1,4 @@
-# Welcome to my world
+# Me
   - 📫 How to reach me: umbertociccia@icloud.com
   - 📚 BSc in Computer Engineering (Grade: 109/110)
   - 📚 I'm currently studying Cyber security at the University of Calabria
