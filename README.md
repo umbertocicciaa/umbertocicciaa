@@ -3,7 +3,7 @@
   - 📚 BSc in Computer Engineering
   - 📚 I'm currently studying Cyber security at the University of Calabria
   - 🧑🏻‍💻 Aspiring devops engineer
-  - 🌎  <a href="https://umbertocicciaa.github.io/"> My github.io </a>
+  - 🌎  <a href="https://umbertocicciaa.github.io/"> My github.io </a> (WORK in progress...)
 
 ## Languages and Tools
 <p align="left">
