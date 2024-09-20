@@ -45,7 +45,8 @@
 
 
 ## CV
-<img width="572" alt="CV" src="https://github.com/user-attachments/assets/754758e9-60a3-4f0c-9a44-f75297ceb5e3">
+<img width="572" alt="CV" src="https://github.com/user-attachments/assets/81ae1d55-9a5e-46f2-a109-7b6cee292391">
+
 
 <!--
 **umbertocicciaa/umbertocicciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
