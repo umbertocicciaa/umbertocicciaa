@@ -43,10 +43,10 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
 
-
+<!--
 ## CV
 <img width="572" alt="CV" src="https://github.com/user-attachments/assets/81ae1d55-9a5e-46f2-a109-7b6cee292391">
-
+-->
 
 <!--
 **umbertocicciaa/umbertocicciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
