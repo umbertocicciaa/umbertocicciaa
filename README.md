@@ -1,9 +1,22 @@
 # Me
-  - 📫 How to reach me: umbertociccia@icloud.com
-  - 📚 BSc in Computer Engineering
-  - 📚 I'm currently studying Cyber security at the University of Calabria
-  - 🧑🏻‍💻 Aspiring devops engineer
-  - 🌎  <a href="https://umbertocicciaa.github.io/"> My github.io </a> (Work in progress...)
+👋 Hello! I'm Umberto, a passionate Software Development Engineer with a focus on .NET, ASP.NET Core, and Blazor. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I’m constantly learning and expanding my skill set in cloud technologies, CI/CD, and test-driven development.
+
+- 📫 How to reach me: umbertociccia@icloud.com
+- 📚 BSc in Computer Engineering
+- 📚 I'm currently studying Cyber security at the University of Calabria
+- 🧑🏻‍💻 Aspiring devops engineer
+- 🌎  <a href="https://umbertocicciaa.github.io/"> My github.io </a> (Work in progress...)
+
+My goals:
+- Microsoft Certified: Azure Fundamentals (AZ-900) 
+- AWS Certified Cloud Practitioner 
+- GitHub Actions Certified
+
+## Education
+- Cyber Security Student | University of Calabria (2024 – 2026)
+- BSc in Computer Engineering | University of Calabria (2021 – 2024)
+  - Graduated with 109/110
+  - Notable Courses: Web & Mobile App Development (30L/30), Software Engineering (27/30), Databases (29/30), Computer Networks (27/30) ...
 
 ## Languages and Tools
 <p align="left">
