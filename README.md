@@ -1,11 +1,6 @@
 # Me
 👋 Hello! I'm Umberto, a passionate Software Development Engineer with a focus on .NET, ASP.NET Core, and Blazor. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I’m constantly learning and expanding my skill set in cloud technologies, CI/CD, and test-driven development. I aspire to become a Devops Engineer
 
-My goals:
-- Microsoft Certified: Azure Fundamentals (AZ-900) 
-- AWS Certified Cloud Practitioner 
-- GitHub Actions Certified
-
 ## Education
 - Cyber Security Student | University of Calabria (2024 – 2026)
 - BSc in Computer Engineering | University of Calabria (2021 – 2024)
