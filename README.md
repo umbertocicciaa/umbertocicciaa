@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-domenico-ciccia/)
 
+[![Blog](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://umbertocicciaa.github.io/blog-umbertodomenico-ciccia)
 
 [![Github.Io](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://umbertocicciaa.github.io)
 
