@@ -1,5 +1,5 @@
 # Umberto Domenico Ciccia
-👋 Hello! I'm Umberto, a passionate Jr Cloud Engineer. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer and Fullstack Develoler. I’m constantly learning and expanding my skill set. I aspire to become a senior Cloud, Devops Engineer
+👋 Hello! I'm Umberto, a passionate Cloud Engineer. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer and Fullstack Develoler. I’m constantly learning and expanding my skill set. I aspire to become a senior Cloud, Devops Engineer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-domenico-ciccia/)
 
