@@ -14,6 +14,10 @@ Portfolio
 
 [![Github.Io](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://umbertocicciaa.github.io)
 
+Certdirectory
+
+[![Certdirectory.io](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://certdirectory.io/profile/db7a98c5-90ce-4a89-ab2b-43997da6f9f9)
+
 ---
 
 ## Languages and Tools
