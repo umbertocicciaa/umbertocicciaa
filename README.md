@@ -99,7 +99,7 @@ Certdirectory
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/terminal.svg" alt="Terminal Overview" />
+  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/terminal.svg" alt="Terminal Overview" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ Certdirectory
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/languages.svg" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/languages.svg" alt="Languages" />
 </p>
 
 ---
@@ -129,22 +129,22 @@ Certdirectory
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/calendar-iso.svg" alt="Isometric Calendar" />
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/calendar.svg" alt="Commit Calendar" />
+  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/calendar-iso.svg" alt="Isometric Calendar" />
+  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/calendar.svg" alt="Commit Calendar" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/habits.svg" alt="Coding Habits" />
+  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/habits.svg" alt="Coding Habits" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=umbertocicciaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![visitor](https://visitcount.itsvg.in/api?id=umbertocicciaa&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=umbertocicciaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=umbertocicciaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
