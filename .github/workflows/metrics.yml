@@ -7,6 +7,7 @@ on:
 jobs:
   intro:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -22,6 +23,7 @@ jobs:
 
   calendar_iso:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -37,6 +39,7 @@ jobs:
 
   languages:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -61,6 +64,7 @@ jobs:
 
   stargazers:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -77,6 +81,7 @@ jobs:
 
   habits:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -97,6 +102,7 @@ jobs:
 
   calendar:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -113,6 +119,7 @@ jobs:
 
   activity:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -134,6 +141,7 @@ jobs:
 
   anilist:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
@@ -154,6 +162,7 @@ jobs:
 
   terminal:
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     steps:
