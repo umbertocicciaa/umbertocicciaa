@@ -98,8 +98,6 @@ Certdirectory
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="stats" width="25" height="25" style="filter: invert(100%) brightness(95%) contrast(80%);" /> <span style="font-family: 'Poppins', sans-serif;">GitHub Stats</span>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/terminal.svg" alt="Terminal Overview" />
 </p>
