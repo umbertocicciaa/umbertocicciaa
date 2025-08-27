@@ -123,7 +123,7 @@ Certdirectory
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/.github/main/metrics/stargazers.svg" alt="Stargazers" />
+  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/stargazers.svg" alt="Stargazers" />
 </p>
 
 ---
