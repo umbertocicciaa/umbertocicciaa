@@ -111,9 +111,7 @@ Certdirectory
 
 ---
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=umbertocicciaa&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=umbertocicciaa)](https://git.io/streak-stats)
 
 ---
 
