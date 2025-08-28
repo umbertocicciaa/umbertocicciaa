@@ -92,11 +92,12 @@ Certdirectory
 
 ## 📊 GitHub Stats
 
+<!--- 
 ![stats](https://github-readme-stats.vercel.app/api?username=umbertocicciaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=umbertocicciaa&theme=dark&hide_border=false)<br/>
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocicciaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# ![stats](https://github-readme-streak-stats.herokuapp.com/?user=umbertocicciaa&theme=dark&hide_border=false)<br/>
+# ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocicciaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/terminal.svg" alt="Terminal Overview" />
