@@ -111,10 +111,6 @@ Certdirectory
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=umbertocicciaa)](https://git.io/streak-stats)
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/languages.svg" alt="Languages" />
 </p>
