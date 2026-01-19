@@ -1,6 +1,6 @@
 # Umberto Domenico Ciccia
 
-👋 Hello! I'm Umberto, a passionate Cloud Engineer. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer and Fullstack Develoler. I’m constantly learning and expanding my skill set. I aspire to become a senior Cloud, Devops Engineer
+👋 Hello! I'm Umberto, a passionate System Engineer at AWS. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer, Fullstack Develoler and Cloud Engineer. I’m constantly learning and expanding my skill set. I aspire to become a senior Cloud, Devops Engineer
 
 ![Metrics](/github-metrics.svg)
 
@@ -136,12 +136,6 @@ Certdirectory
 <p align="center">
   <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/calendar-iso.svg" alt="Isometric Calendar" />
   <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/calendar.svg" alt="Commit Calendar" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/habits.svg" alt="Coding Habits" />
 </p>
 
 ---
