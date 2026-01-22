@@ -5,6 +5,21 @@ on:
   push: {branches: ["main", "master"]}
 
 jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: umbertocicciaa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+
   intro:
     runs-on: ubuntu-latest
     environment: production
