@@ -6,27 +6,12 @@
 
 ![Metrics](/github-metrics.svg)
 
----
-
 ## Socials
 
-LinkedIn
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-domenico-ciccia/)
-
-Blog:
-
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://umbertocicciaa.github.io/blog-umbertodomenico-ciccia)
-
-Portfolio
-
 [![Github.Io](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://umbertocicciaa.github.io)
-
-Certdirectory
-
 [![Certdirectory.io](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://certdirectory.io/profile/db7a98c5-90ce-4a89-ab2b-43997da6f9f9)
-
----
 
 ## Languages and Tools
 
@@ -42,8 +27,6 @@ Certdirectory
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
----
-
 ### Frameworks
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -54,15 +37,11 @@ Certdirectory
 ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
----
-
 ### Cloud Provider
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
 
 ### Cloud and DevOps
 
@@ -79,8 +58,6 @@ Certdirectory
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
----
-
 ### Ai and Data
 
 ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
@@ -88,8 +65,6 @@ Certdirectory
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![ChatGpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
----
 
 ### Databases
 
@@ -101,54 +76,3 @@ Certdirectory
 ![Rds](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SqlLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<!--- 
-![stats](https://github-readme-stats.vercel.app/api?username=umbertocicciaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-# ![stats](https://github-readme-streak-stats.herokuapp.com/?user=umbertocicciaa&theme=dark&hide_border=false)<br/>
-# ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocicciaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/terminal.svg" alt="Terminal Overview" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umbertocicciaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/languages.svg" alt="Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/stargazers.svg" alt="Stargazers" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/calendar-iso.svg" alt="Isometric Calendar" />
-  <img src="https://raw.githubusercontent.com/umbertocicciaa/umbertocicciaa/refs/heads/main/metrics/calendar.svg" alt="Commit Calendar" />
-</p>
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=umbertocicciaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=umbertocicciaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
