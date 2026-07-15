@@ -2,7 +2,10 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=umbertocicciaa%2FREADME.md&countColor=%23263759)
 
-👋 Hello! I'm Umberto, a passionate System Engineer at AWS. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer, Fullstack Develoler and Cloud Engineer. I’m constantly learning and expanding my skill set. [RenderCV-Resume](https://umbertocicciaa.github.io/umbertodomenico-ciccia-resume/)
+👋 Hello! I'm Umberto, a passionate System Engineer at AWS. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer, Fullstack Develoler and Cloud Engineer. I enjoy contributing to open source projects.
+
+* [RenderCV-Resume](https://umbertocicciaa.github.io/umbertodomenico-ciccia-resume/)
+* [Open Source Contributions](Contributions.md)
 
 ![Metrics](/github-metrics.svg)
 
@@ -76,3 +79,10 @@
 ![Rds](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SqlLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+> [!IMPORTANT]
+> **Disclaimer**
+>
+> I currently work as a System Engineer at **Amazon Web Services (AWS)**. Unless explicitly stated otherwise, all open source contributions, repositories, pull requests, articles, and opinions published on this profile are my own personal work and are created outside the scope of my employment. They do not represent the views, positions, or official work of Amazon or AWS.
