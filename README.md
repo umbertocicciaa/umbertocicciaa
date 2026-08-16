@@ -83,8 +83,9 @@
 ![SqlLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
+<!---
 > [!IMPORTANT]
 > **Disclaimer**
 >
 > I currently work as a System Engineer at **Amazon Web Services (AWS)**. Unless explicitly stated otherwise, all open source contributions, repositories, pull requests, articles, and opinions published on this profile are my own personal work and are created outside the scope of my employment. They do not represent the views, positions, or official work of Amazon or AWS.
+-->
