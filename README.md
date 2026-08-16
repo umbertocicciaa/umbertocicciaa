@@ -5,7 +5,9 @@
 👋 Hello! I'm Umberto, a passionate System Engineer at AWS. I have experience working with various modern web technologies, contributing to enterprise-level applications, and optimizing legacy systems. I worked in the roles of Software Engineer, Fullstack Develoler and Cloud Engineer. I enjoy contributing to open source projects.
 
 * [RenderCV-Resume](https://umbertocicciaa.github.io/umbertodomenico-ciccia-resume/)
+<!---
 * [Open Source Contributions](Contributions.md)
+-->
 
 ![Metrics](/github-metrics.svg)
 
